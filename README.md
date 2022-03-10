@@ -1,12 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m curr
-- 🌱 I’m curre
-- 👯 I’m lookin
-- 🤔 I’m look
-- 💬 Ask 
-- 📫 How t
-- 😄 Pronouns: ...![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HuaGouFdog&show_icons=true&theme=gruvbox)
+你好![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HuaGouFdog&show_icons=true&theme=gruvbox)
 
 
 **HuaGouFdog/HuaGouFdog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
